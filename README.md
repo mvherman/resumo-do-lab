@@ -1,2 +1,2 @@
 # resumo-do-lab
-Laboratório DIO
+Alteração para conclusão do projeto. 
